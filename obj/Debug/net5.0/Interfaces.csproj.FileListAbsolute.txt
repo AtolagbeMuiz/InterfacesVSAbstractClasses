@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
